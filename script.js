@@ -7,3 +7,5 @@ let ul = document.querySelector('ul');
 console.log(ul.children);
 console.log(ul.lastElementChild);
 console.log(ul.lastElementChild.childNodes[0].nodeType);
+console.log(ul.lastElementChild.childNodes[0]);
+
